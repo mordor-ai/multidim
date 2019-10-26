@@ -1,5 +1,5 @@
 # MIASHS: Analyse de données multidimensionnelles (2019-2020)
-## Cours-TP donnés par Antoine Liutkus, Inria
+## Antoine Liutkus, Inria
 
 ## Contact
 antoine (point) liutkus (arobase) inria (point) fr
