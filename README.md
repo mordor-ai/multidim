@@ -5,11 +5,11 @@
 antoine (point) liutkus (arobase) inria (point) fr
 
 ## Programme des cours
-- __COURS 1__ Introduction à pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/campusplage/dimension-reduction/blob/master/colabs/1_Introduction_pandas.ipynb)  
+- __COURS 1__ Introduction à `pandas` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/campusplage/dimension-reduction/blob/master/colabs/1_Introduction_pandas.ipynb)  
   => 22 novembre aprèm, 26 novembre matin
-- __COURS 2__ utilisation de l'ACP pour l'exploration de données [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/campusplage/multidimensional-data/blob/master/colabs/2_Utilisation_ACP.ipynb)  
+- __COURS 2__ utilisation de l'ACP de `scikit-learn` pour l'exploration de données [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/campusplage/multidimensional-data/blob/master/colabs/2_Utilisation_ACP.ipynb)  
   => 27 novembre matin
-- __COURS 3__ `numpy` et calcul d'une ACP  
+- __COURS 3__ `numpy` et l'implémentation de votre propre ACP  
   => 28 novembre matin
 
 
