@@ -24,8 +24,8 @@ Voici les sujets des TPs:
 * __TP 2__ Utilisation et visualisation d'ACP avec `scikit-learn` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/campusplage/multidimensional-compte-rendus/blob/master/TP2_sklearn.ipynb)  
   => 27 novembre aprèm + 28 novembre matin
 
-* __TP 3__ TP noté
-  => 29 novembre matin
+* __TP 3__ _TP noté_: une ACP en `numpy` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/campusplage/multidim/blob/master/colabs/TP3_numpy.ipynb)  
+  =>  29 novembre matin
 
 ---
 pendant les créneaux consacrés aux TPs, vous êtes libres de prendre de l'avance sur les TPs suivants, ou de retravailler sur les TPs précédents
